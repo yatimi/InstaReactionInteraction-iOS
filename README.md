@@ -13,7 +13,7 @@ Emotion Interaction is an iOS project built using Swift and UIKit. The main feat
 
 ## Gif
 
-![F81BA940-CEF6-4A51-9A60-56AB2F31B5CA-ezgif com-crop](https://github.com/yatimi/InstaReactionInteraction-iOS/assets/46754569/ae56d863-164d-4988-8f56-052fa9c946c8)
+![F81BA940-CEF6-4A51-9A60-56AB2F31B5CA gif (1)](https://github.com/yatimi/InstaReactionInteraction-iOS/assets/46754569/3eb0eb7b-3ad3-4542-b6a4-45958adeddc4)
 
 ## Installation
 
